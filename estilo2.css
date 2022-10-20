@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    float: left;
+    background-color: green;
+    height: 100px;
+    width: 20%;
+}
+
+section {
+    background-color: yellow;
+    height: 720px;
+    width: 100%;
+    text-align: end;
+}
+
+#cabecera {
+    background-color: orange;
+    height: 100px;
+    width: 80%;
+    float: right;
+}
+

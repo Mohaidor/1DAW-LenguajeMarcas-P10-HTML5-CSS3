@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: orange;
+    height: 100px;
+    width: 100%;
+}
+
+section {
+    background-color: yellow;
+    height: 620px;
+    width: 100%;
+    text-align: end;
+}

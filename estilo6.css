@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+background-color: yellow;
+height: 100px;
+width: 100%;
+}
+
+#caja2 {
+
+background-color:rgb(68, 187, 226);
+height: 350px;
+width: 20%;
+
+}
+
+#caja {
+float: right;
+background-color: green;
+height: 350px;
+width: 80%;
+text-align: end;
+}
+
+aside {
+float: left;
+background-color: purple;
+height: 300px;
+width: 20%;
+clear: none;
+
+}
+footer {
+float: right;
+background-color: red;
+height: 300px;
+width: 80%;
+clear: none;
+}
